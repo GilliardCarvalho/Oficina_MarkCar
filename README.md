@@ -1,5 +1,5 @@
 # MarkCar Manutenção Automotiva 🚗🔧  
-Aplicativo de oficina mecânica desenvolvido em **Flutter ** 
+Aplicativo de oficina mecânica desenvolvido em **Flutter** 
 
 O objetivo do app é facilitar o agendamento e gerenciamento de serviços automotivos para clientes e oficinas.
 
