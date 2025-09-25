@@ -15,10 +15,3 @@ O objetivo do app é facilitar o agendamento e gerenciamento de serviços automo
   - 📞 Contato  
 
 ---
-
-## ⚙️ Como rodar o projeto
-No terminal, execute os comandos abaixo dentro da pasta raiz do projeto:
-
-```bash
-flutter pub get
-flutter run
