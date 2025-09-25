@@ -6,8 +6,7 @@ O objetivo do app é facilitar o agendamento e gerenciamento de serviços automo
 ---
 
 ## 📱 Funcionalidades
-- Tela de **Login** com autenticação básica.  
-- **Navegação por TabBar inferior** para fácil acesso.  
+- Tela de **Login** com autenticação básica.   
 - Telas principais:  
   - 📅 Agendar Serviço  
   - ℹ️ Detalhes do Serviço  
